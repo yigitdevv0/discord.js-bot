@@ -1,0 +1,7 @@
+{
+	"prefix": "m!",
+	"verifyRole": "1186328161408004231",
+	"messages": {
+		"COOLDOWN_MESSAGE": "You are on `<duration>` cooldown!"
+	}
+}
